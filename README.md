@@ -52,3 +52,20 @@ cd Darkwave-engine
 
 cmake -S . -B build
 cmake --build build
+```
+
+---
+
+## Contributing
+
+If you are interested in participating in the development of Darkwave Engine, feel free to reach out:
+
+Telegram: @mister_byman
+
+Contributions, discussions, and technical feedback are welcome.
+
+---
+
+## License
+
+License information will be added later.
